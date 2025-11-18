@@ -1,2 +1,2 @@
 # Data
-我的论文所用的数据集
+The dataset used in this study was obtained from density functional theory (DFT) calculations.
